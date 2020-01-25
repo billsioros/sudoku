@@ -1,5 +1,7 @@
 # Creating and Solving Variations on Sudoku Puzzles
 
+![alt text](img/solver.png)
+
 ## Set up
 
 ```bash
